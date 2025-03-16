@@ -1,0 +1,23 @@
+scikit-learn
+pandas
+pydantic
+uvicorn
+streamlit
+langchain 
+pypdf 
+openai 
+chromadb 
+tiktoken 
+docx2txt 
+langchain-community 
+langchain-core 
+streamlit_chat 
+langchain-openai
+python-dotenv
+colorama
+fastai
+matplotlib
+matplotlib
+
+# fastapi dev main.py
+# uvicorn main:app --reload
